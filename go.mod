@@ -1,3 +1,3 @@
-module go-helper
+module  github.com/bugqian/go-helper
 
 go 1.24.4
